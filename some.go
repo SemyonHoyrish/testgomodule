@@ -1,6 +1,6 @@
 package testgomodule
 
-func afunction(s string) string {
+func Afunction(s string) string {
     return "[START]" + s + "[END]"
 }
 
